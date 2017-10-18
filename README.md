@@ -2,4 +2,4 @@
 Project source code for https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers
 
 # How to run
-docker build
+run `docker build`
